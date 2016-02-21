@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\CSharpAndClass\CSharpAndClass\bin\Debug\CSharpAndClass.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\CSharpAndClass\CSharpAndClass\bin\Debug\CSharpAndClass.exe
+c:\users\mike\documents\visual studio 2015\Projects\CSharpAndClass\CSharpAndClass\bin\Debug\CSharpAndClass.pdb
+c:\users\mike\documents\visual studio 2015\Projects\CSharpAndClass\CSharpAndClass\obj\Debug\CSharpAndClass.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\CSharpAndClass\CSharpAndClass\obj\Debug\CSharpAndClass.exe
+c:\users\mike\documents\visual studio 2015\Projects\CSharpAndClass\CSharpAndClass\obj\Debug\CSharpAndClass.pdb
